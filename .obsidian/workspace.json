@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "43768c71c62a3fd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d55b498bd452823b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d54bdeaaf2475d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flask Tutorial/1 - How to Make Websites with Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - How to Make Websites with Python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f956b43879263d49",
+    "type": "split",
+    "children": [
+      {
+        "id": "da5c04a8b6793cc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c76ff2cffbef8cfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fb9354fcd2fada5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "299a796ca866936d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "053c6f441a17cb4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6a250e8d94eccad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d949b95b1e34950b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Flask Tutorial/1 - How to Make Websites with Python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1 - How to Make Websites with Python"
+            }
+          },
+          {
+            "id": "83223191a767fe3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Flask Tutorial/1 - How to Make Websites with Python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1 - How to Make Websites with Python"
+            }
+          },
+          {
+            "id": "3b14b023ec54e004",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3fb59d9ef3595b8c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9ac9a2efc40acb4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Flask Tutorial/1 - How to Make Websites with Python.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1 - How to Make Websites with Python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d54bdeaaf2475d07",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Flask Tutorial/1 - How to Make Websites with Python.md",
+    "Flask Tutorial/1 - How to Make Websites with Python 1.md",
+    "Flask Tutorial/A-First-Course-in-Probability.pdf",
+    "Flask Tutorial/Douglas R. Stinson, CRYPTOGRAPHY.pdf",
+    "Flask Tutorial/exercise-book (2).pdf",
+    "Flask Tutorial/Jonathan K and Yehuda L, Introduction to Modern Cryptography.pdf",
+    "Flask Tutorial/Ralph Moseley.pdf",
+    "Flask Tutorial/Sheldon_M_Ross-Introduction_to_Probability_and_Statistics-EN.pdf",
+    "Flask Tutorial/Walpole -Probability_and_Statistics_for_Engineers (2).pdf",
+    "Flask Tutorial/Untitled.md",
+    "Welcome.md",
+    "Flask Tutorial"
+  ]
+}
