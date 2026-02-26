@@ -91,3 +91,33 @@ def user():
    url_for `("home"):` Это важный момент. Вместо того чтобы вручную писать путь (например,  /), используется функция `url_for`, которая принимает имя функции (в данном случае `"home"`) и автоматически находит связанный с ней URL-адрес.
 
    В результате, когда кто-то пытается зайти на страницу `/admin`, приложение мгновенно перенаправит его на страницу, за которую отвечает функция `home`.
+
+```
+from flask import Flask, redirect, url_for
+
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+	return "<h1>HELLO<h1> world!"
+	
+@app.route("/<name>")
+def user(name):git remote add origin https://github.com/lapisUbi/Conspects.git
+	return f"<h1>HELLO<h1> {name}!"
+	
+@app.route("/admin")
+def user():
+	return redirect(url_for("user", name="Admin!"))
+	
+if __name__ == "__main__":
+	app.run()
+
+```
+
+Редирект в страницу админа /admin , сайт перенаправляет на /Admin
+
+```
+@app.route("/admin")
+def user():
+	return redirect(url_for("user", name="Admin!"))
+```
